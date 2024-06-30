@@ -15,7 +15,7 @@ SciKit: Experienced in using SciKit-Learn for a wide range of machine learning t
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/karol rochalski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karol rochalski" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/karol-rochalski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karol rochalski" height="30" width="40" /></a>
 <a href="https://kaggle.com/karolrochalski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="karolrochalski" height="30" width="40" /></a>
 </p>
 
