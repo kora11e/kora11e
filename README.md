@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Karol</h1>
-<h3 align="center">A passionate software developer from Poland</h3>
+
+I am an AI developer with a deep passion for creating innovative solutions using advanced technologies. My expertise lies in leveraging powerful tools and platforms such as PyTorch, AWS, and SciKit to develop, deploy, and optimize machine learning models.
+
+Skills and Expertise
+PyTorch: Proficient in using PyTorch for building and training deep learning models, including experience with CNNs, RNNs, and transformers.
+AWS: Skilled in utilizing AWS services like EC2, S3, Lambda, and SageMaker for scalable and efficient deployment of machine learning models and applications.
+SciKit: Experienced in using SciKit-Learn for a wide range of machine learning tasks including classification, regression, clustering, and dimensionality reduction.
 
 - 🔭 I’m currently working on **Real Time Camera detection system**
 
